@@ -8,6 +8,7 @@
 <script type="text/javascript">
     alert('${param.msg}')
     history.back();
+    console.log("${param.msg}");
 </script>
 </head>
 <body>
